@@ -1,2 +1,5 @@
 /node_modules/
 /reports/
+
+# auto generated wildcard
+hana_app/db/.env
